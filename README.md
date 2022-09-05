@@ -1,0 +1,2 @@
+# ADVANCED-ANALYTICS-PROJECT
+Employees time table schedule is one of the most popular topic  in covid 19 pandemic situation. Because companies and tread  industry start to opened their companies under covid 19 health rules and regulations. According to the health rules all of the  employees can’t come to the company daily. To solve this  problem selected advocata institute to get real world data and  created a time table for the employees, using balanced  assignment problem. project objective is to minimize the number  of employees coming to the office daily.
